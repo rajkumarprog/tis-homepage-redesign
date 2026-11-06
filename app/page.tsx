@@ -467,6 +467,9 @@ export default function Home() {
             <h2 className="font-serif text-4xl md:text-6xl">
               Voices of <span className="text-amber-700">TIS.</span>
             </h2>
+            <p className="mt-4 text-sm text-slate-500">
+              Sample testimonials for this design concept.
+            </p>
           </Reveal>
 
           <div className="mt-14 grid gap-5 md:grid-cols-3">
@@ -599,8 +602,9 @@ export default function Home() {
         </div>
 
         <div className="mx-auto mt-12 max-w-7xl border-t border-white/10 pt-6 text-xs text-white/30">
-          © {new Date().getFullYear()} Tulas International School. Homepage
-          redesign assessment.
+          Unofficial homepage redesign concept by Rajkumar Panikera. Not
+          affiliated with Tulas International School. Testimonials and figures
+          are illustrative placeholders.
         </div>
       </footer>
     </main>
