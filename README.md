@@ -1,6 +1,6 @@
 # Tulas International School - Homepage Redesign
 
-A modern and responsive homepage redesign for Tulas International School.
+A modern, responsive homepage redesign **concept** for Tulas International School, built as a frontend practice project. It is not the school's official website and is not affiliated with the school.
 
 ## Live Website
 
@@ -31,9 +31,12 @@ https://github.com/rajkumarprog/tis-homepage-redesign
 
 ## Run Locally
 
-npm install
+Requires Node.js 18+.
 
+```bash
+npm install
 npm run dev
+```
 
 Open http://localhost:3000
 
